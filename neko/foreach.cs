@@ -6,7 +6,7 @@ class foreach01
   {
     string[] Animal = new string[]{ "Œ¢", "”L", "è³", "‰Ž" };
     int[] Num = new int[]{ 10, 20, 30, 40 };
-    
+
     foreach (string str in Animal)
       {
        Console.WriteLine(str);
